@@ -9,6 +9,8 @@ pandas = "*"
 seaborn = "*"
 scipy = "*"
 scikit-learn = "*"
+tensorflow = "*"
+tqdm = "*"
 
 [dev-packages]
 
