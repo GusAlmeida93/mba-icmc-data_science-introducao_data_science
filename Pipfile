@@ -11,6 +11,8 @@ scipy = "*"
 scikit-learn = "*"
 tensorflow = "*"
 tqdm = "*"
+statsmodels = "*"
+mlxtend = "*"
 
 [dev-packages]
 
